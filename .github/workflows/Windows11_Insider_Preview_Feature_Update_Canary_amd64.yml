@@ -4,7 +4,7 @@ on: workflow_dispatch
 #on: [push, pull_request]
 
 env:
-  Build_VERSION: '28020.1685'
+  Build_VERSION: '28020.1812'
   FILE_NAME: Windows11_Insider_Preview_Feature_Update_Canary_amd64
 
 jobs:
